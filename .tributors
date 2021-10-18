@@ -240,5 +240,13 @@
         "name": "Blake Joyce",
         "bio": "I'm a code curious biologist.",
         "blog": "https://github.com/bjoyce3"
+    },
+    "axrez": {
+        "name": "Emil Østergaard",
+        "bio": "I make buttons look pretty",
+        "blog": "oestergaard.dev"
+    },
+    "hackdna": {
+        "name": "Ilya Sytchev"
     }
 }

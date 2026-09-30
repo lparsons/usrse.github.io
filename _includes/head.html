@@ -3,7 +3,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content={{ site.theme_color | default: '#ffffff' }}>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <!-- Favicons (all derived from assets/img/USRSE_Pride_6ColorChevronsIcon.png): PNG for modern browsers, favicon.ico fallback, apple-touch-icon.png for iOS. -->
     <link rel="shortcut icon" type="image/png" {% if site.favicon %} href="{{ site.favicon | relative_url }}" {% else %} href="{{ site.baseurl }}/favicon.png" {% endif %}/>
+    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any"/>
+    <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}"/>
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/reboot.css">

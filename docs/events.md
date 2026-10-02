@@ -177,3 +177,5 @@ Adding to the calendar isn't currently supported for repeating events - the reas
 being that we can't reliably render the repetitions in the code to generate the button.
 If anyone would like to work on this, please [post on this issue](https://github.com/USRSE/usrse.github.io/issues/558) or (better) just go for it :)
 
+
+See [US-RSE](https://us-rse.org/about/).

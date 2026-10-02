@@ -1,3 +1,8 @@
+- expires: 2026-12-31
+  location: Trial, NJ
+  name: URL check trial job
+  posted: 2026-10-02
+  url: https://us-rse.org/this-job-does-not-exist-xyz/
 - expires: 2026-12-01
   location: Georgia Tech, Atlanta, GA
   name: Research Scientist I/II

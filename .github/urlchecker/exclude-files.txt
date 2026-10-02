@@ -23,3 +23,15 @@ tests/test_
 
 # Archived newsletters were sent by email and are kept as a record
 _posts/newsletters/
+
+# trial only: skip everything except docs/ to test closing the issue
+_posts/
+_events/
+_data/
+pages/
+scripts/
+_includes/
+_layouts/
+_template/
+assets/
+news/
